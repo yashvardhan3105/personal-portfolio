@@ -14,3 +14,18 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+
+:root {
+  --browntint1: rgba(218, 197, 167, 0.6);
+  --browntint2: rgb(218, 197, 167);
+  --browntint3: #1d1e1f;
+  --browntint4: rgba(218, 197, 167, 0.15);
+  --browntint5: rgba(218, 197, 167, 0.3);
+  --browntint6: #0e0e0e;
+  --browntint7: rgba(218, 197, 167, 0.05);
+  --browntint8: rgba(218, 197, 167, 0.1);
+  --browntint9: #dac5a7;
+  --browntint10: rgb(237, 214, 182);
+  --browntint11: rgb(26, 26, 26);
+  --browntint12: rgb(33, 33, 33);
+}
